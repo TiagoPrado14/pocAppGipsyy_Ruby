@@ -1,0 +1,11 @@
+
+[caps]
+app = "/Users/tiagoprado/pocAutomacao/app/Android/app-releaseTeste.apk"
+platformName = "Android"
+deviceName = "Pixel 4 API 31"
+udid = "emulator-5554"
+automationName = "UiAutomator2"
+platformVersion = "12.0"
+appPackage = "br.com.gipsyy.app"
+appActivity = "MainActivity"
+

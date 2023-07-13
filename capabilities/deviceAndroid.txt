@@ -1,0 +1,13 @@
+[caps]
+app = "/Users/tiagoprado/pocAutomacao/app/Android/app-releaseTeste.apk"
+platformName = "Android"
+deviceName = "Galaxy A73 5G"
+udid = "RQCT5050W9F"
+automationName = "UiAutomator2"
+platformVersion = "12.0"
+appPackage = "br.com.gipsyy.app"
+appActivity = "MainActivity"
+
+
+[settings]
+waitForldleTimeout = 500
