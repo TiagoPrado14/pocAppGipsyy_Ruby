@@ -9,6 +9,14 @@ module AppHelpers
 
     def homeApp
         HomeApp.new
-    end 
+    end
+    
+    def contaScreen
+        ContaApp.new
+    end
+
+    def loginScreen
+        LoginApp.new
+    end
 
 end

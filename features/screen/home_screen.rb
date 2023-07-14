@@ -21,5 +21,9 @@ class HomeApp
 
     end
 
+    def btnConta
+        wait_element(:xpath, "//*[@text='Conta']").click
+    end
+
 
 end

@@ -1,6 +1,6 @@
 
 [caps]
-app = "/Users/tiagoprado/pocAutomacao/app/Android/app-releaseTeste.apk"
+app = "C:\\automacaoGipsyy\\pocAutomacao\\app\\Android\\app-releaseAtual.apk"
 platformName = "Android"
 deviceName = "Pixel 4 API 31"
 udid = "emulator-5554"

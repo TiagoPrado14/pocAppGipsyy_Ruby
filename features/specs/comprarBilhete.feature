@@ -2,8 +2,8 @@
 # encoding: UTF-8
 
 Funcionalidade: Validar fluxo de compra logado
-   # Contexto:
-   # Quando permitir localização
+   Contexto:
+   Dado que realize o onboarding no app
 
 Esquema do Cenário: Fluxo de compra logado pagamento PIX
    Dado que realize o onboarding do app com telefone <telefone> e insira o codigo <codigo>
@@ -18,11 +18,5 @@ Esquema do Cenário: Fluxo de compra logado pagamento PIX
    Exemplos:
    | telefone        | codigo  | senha       | origem     | destino    |                               
    | "11940116463"   | "543610"| "Nova1010-" | "Brasilia - Df" | "sao paulo"|
-
-
-
-
-
-
 
 
